@@ -1,2 +1,2 @@
 # Durga
-A battle with Violence Against Women (VAW)
+A Platform to help end Violence Against Women (VAW)
